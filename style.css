@@ -19,6 +19,10 @@ body {
     font-family: 'Verdana';
 }
 
+br {
+    size: 1px;
+}
+
 ul {
     list-style: none;
 }
