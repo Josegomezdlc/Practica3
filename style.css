@@ -3,9 +3,6 @@
     height: 6.5cm;
 }
 
-a: .links {
-    text-align: right;
-}
 
 body {
     text-align: center;
@@ -27,4 +24,9 @@ a:active {
 
 a:link {
     color: darkslateblue;
+}
+
+.links {
+    text-align: right;
+
 }
