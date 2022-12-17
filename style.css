@@ -1,9 +1,9 @@
 .imagenes {
-    width: 7cm;
+    width: 8cm;
     height: 6.5cm;
 }
 
-.links {
+a: .links {
     text-align: right;
 }
 
