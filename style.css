@@ -3,6 +3,8 @@
     height: 6.5cm;
 }
 
+.tip { text-align: right;}
+
 body {
     text-align: center;
     background-color: black;
