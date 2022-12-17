@@ -3,7 +3,9 @@
     height: 6.5cm;
 }
 
-.tip { text-align: right;}
+.links {
+    text-align: right;
+}
 
 body {
     text-align: center;
@@ -20,9 +22,9 @@ a:hover {
 }
 
 a:active {
-    color:darkolivegreen;
+    color: darkolivegreen;
 }
 
 a:link {
-    color:darkslateblue;
+    color: darkslateblue;
 }
