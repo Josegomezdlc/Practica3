@@ -12,15 +12,15 @@
     font-family: 'Times New Roman';
 }
 
+.class2 {
+    font-size: small;
+}
+
 body {
     text-align: center;
     background-color: black;
     color: darkgray;
     font-family: 'Verdana';
-}
-
-br {
-    size: 2px;
 }
 
 ul {
@@ -37,8 +37,4 @@ a:active {
 
 a:link {
     color: darkslateblue;
-}
-
-.cabezeros {
-    text-decoration: underline
 }
