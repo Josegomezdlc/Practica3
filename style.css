@@ -3,6 +3,13 @@
     height: 6.5cm;
 }
 
+.cabezeros {
+    text-decoration: underline
+}
+
+.cabezero1 {
+    text-align: right;
+}
 
 body {
     text-align: center;
@@ -24,10 +31,6 @@ a:active {
 
 a:link {
     color: darkslateblue;
-}
-
-.links {
-    lighting-color: bisque;
 }
 
 .cabezeros {
