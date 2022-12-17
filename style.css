@@ -5,7 +5,26 @@
 
 body {
     text-align: center;
-background-color: black;
- color: darkgray;
+    background-color: black;
+    color: darkgray;
 }
-ul { list-style: none; }
+
+ul {
+    list-style: none;
+}
+
+a:visited {
+    color:darkred
+}
+
+a:hover {
+    color: crimson
+}
+
+a:active {
+    color:darkolivegreen;
+}
+
+a:link {
+    color:darkslateblue;
+}
