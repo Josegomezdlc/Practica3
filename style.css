@@ -26,6 +26,10 @@ a:link {
     color: darkslateblue;
 }
 
-.link {
+.links {
     lighting-color: bisque;
+}
+
+.cabezeros {
+    text-decoration: underline
 }
