@@ -12,9 +12,8 @@ body {
 ul {
     list-style: none;
 }
-
-a:visited {
-    color:darkred
+a:link {
+    color:darkslateblue;
 }
 
 a:hover {
@@ -27,4 +26,7 @@ a:active {
 
 a:link {
     color:darkslateblue;
+}
+a:visited {
+    color:darkred
 }
